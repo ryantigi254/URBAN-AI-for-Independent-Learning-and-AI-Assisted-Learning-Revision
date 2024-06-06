@@ -43,7 +43,7 @@ Phase 3 of this project aims to realize a highly interactive, personalized learn
 We welcome contributions from other students, educators, and researchers. For more information on how you can get involved or support this project, please contact us at [Your Contact Information].
 
 ## Licensing
-This project is licensed under the [Creative Commons license]. For more details, please see the LICENSE file.
+This project is licensed under the [Creative Commons license].
 
 Thank you for your interest in the AI for Independent Learning and AI-Assisted Learning Revision project! We look forward to your contributions and feedback.
 
