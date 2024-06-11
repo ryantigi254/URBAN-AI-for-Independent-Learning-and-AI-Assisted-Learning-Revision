@@ -26,27 +26,6 @@ This project focuses on creating an AI chatbot to be used in digital learning en
 - **Broad Platform Compatibility**: Initially focused on NILE, with potential for integration into other university platforms.
 - **Adaptive Learning Support**: Continuously learns from student interactions, adapting its responses and recommendations to meet evolving educational needs.
 
-## Project Timeline
-- **June-September 2024**: Conduct in-depth research in the field.
-- **September 2024-May 2025**: Collect data from relevant sources.
-- **May 2025-October 2025**: Develop the chatbot and write a research paper around it.
-- **October 2025-January 2026**: Test, release, and start publishing formalities.
-
-## Future Development and Funding
-- **Transition to CADE**: Propose transitioning the project under the Centre for Active Digital Learning (CADE) for further development and support.
-- **Funding Opportunities**: Explore CADE’s resources and funding mechanisms to sustain and expand the chatbot’s capabilities.
-
-## Conclusion
-Phase 3 of this project aims to realize a highly interactive, personalized learning experience supported by AI. By aligning the chatbot’s development with educational goals and incorporating feedback from both students and educators, we aim to enhance educational outcomes through technology.
-
-## How to Contribute
-We welcome contributions from other students, educators, and researchers. For more information on how you can get involved or support this project, please contact us at [Your Contact Information].
-
-## Licensing
-This project is licensed under the [Creative Commons license].
-
 Thank you for your interest in the AI for Independent Learning and AI-Assisted Learning Revision project! We look forward to your contributions and feedback.
 
-For any questions or further information, please reach out to us at [ryantigi2020@gmail.com.
-
-
+For any questions or further information, please reach out to us at ryantigi2020@gmail.com.
